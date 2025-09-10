@@ -1,4 +1,4 @@
-# Guide des Patrons de Conception - TP4
+# Guide des Patrons de Conception
 
 ## Description
 Ce projet contient un guide d'utilisation des patrons de conception, organisé en deux parties principales :
